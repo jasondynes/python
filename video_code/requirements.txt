@@ -1,4 +1,0 @@
-#Flask
-#behave==1.2.7
-#beautifulsoup4==4.5.3
-#selenium==3.141.0
